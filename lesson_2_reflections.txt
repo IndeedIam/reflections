@@ -4,3 +4,10 @@ What happens when you initialize a repository? Why do you need to do it?
 
 It creates a repository.
 
+How is the staging area different from the working directory and the repository?
+What value do you think it offers?
+
+Provides a temporary storage area for items to be "staged" prior to a commit. It provides some flexibility.
+
+
+
