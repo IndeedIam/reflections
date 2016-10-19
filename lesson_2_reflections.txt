@@ -14,3 +14,9 @@ change?
 
 Sh*t. I don't know.
 
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+When making significant changes that significatly alter the app (i.e. alternative language support, different version, such as easymode, etc.)
+
+
+
