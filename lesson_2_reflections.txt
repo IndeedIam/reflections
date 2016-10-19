@@ -9,5 +9,8 @@ What value do you think it offers?
 
 Provides a temporary storage area for items to be "staged" prior to a commit. It provides some flexibility.
 
+How can you use the staging area to make sure you have one commit per logical
+change?
 
+Sh*t. I don't know.
 
