@@ -9,3 +9,7 @@ Describe the differences between forks, clones, and branches. When would you use
 
 What is the benefit of having a copy of the last known state of the remote stored locally?
 - Provides info even when there's no available internet connection to access the remote.
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+- Ad hoc collaboration would be less efficient than using GitHub.
+
