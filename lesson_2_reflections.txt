@@ -26,4 +26,8 @@ What is the result of merging two branches together? Why do we represent it in t
 
 Master branch now merged with Coins [Blank stare]
 
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+Pro - make it easier to vet simple merge conflicts. Con - can be annoying
+
 
